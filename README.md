@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chandan Kalappanavar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Node.js+%7C+React+%7C+Firebase+%7C+MongoDB" />
-</p>
+
 
 ---
 
