@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-  <img src="https://raw.githubusercontent.com/chandansk18/chandansk18/main/profile-pic.png" alt="Chandan Kalappanavar" height ="400" width="1000"/>
+  <img src="https://raw.githubusercontent.com/chandansk18/chandansk18/main/profile-pic.png" alt="Chandan Kalappanavar"  width="1000"/>
 </p>
 <h1 align="center">Hi 👋, I'm Chandan Kalappanavar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
